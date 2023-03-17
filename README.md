@@ -1,6 +1,6 @@
 ﻿# AIpacheRootkit
 
-This is a rootkit designed to hide a backdoor in an Apache service running on a Ubuntu 22 machine. The backdoor provides a reverse shell, allowing remote access to the compromised machine.
+This rootkit targets the Apache web server running on a Linux machine. It injects a backdoor into the Apache service, allowing remote execution of commands on the compromised machine. The rootkit uses polymorphism and anti-debugging techniques to evade detection by antivirus software and security researchers.
 
 ## Installation
 
